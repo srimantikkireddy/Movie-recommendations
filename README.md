@@ -1,5 +1,5 @@
 # Movie-recommendations
-Recommends movies from the given movie.
+Recommends movies from the given movie./n
 movie.ipynb is the jupyter notebook file for ml code.
 movies.csv is the dataset used for the above ml code.
 movies_list.pkl is the saved model of the list of movies done using pickle.
